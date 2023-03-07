@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guess games</title>
+  </head>
+  <body>
+    <h1>Lets play guess game</h1>
+    <h2>click on button to start</h2>
+    <button onclick="guessit()">guessit</button>
+    <script>
+      function guessit() {
+        let number = parseInt(Math.random() * 100);
+        // console.log(number);
+        let yourGuess;
+        let totalChance = 100;
+        while (yourGuess !== number) {
+          yourGuess = parseInt(prompt("enter your guess 1-100 numbers"));
+          totalChance = totalChance - 1;
+          console.log(
+            yourGuess || "enter number",
+            " you entered and you have ",
+            totalChance,
+            " left"
+          );
+          if (number > yourGuess) {
+            console.log("number is greater");
+          } else if (number < yourGuess) {
+            console.log("number is smaller");
+          } else if (isNaN(yourGuess)) {
+            console.log("please enter number😒");
+          } else {
+            console.log("right guess 👌 and you have taken ",100 - totalChance,"chances");
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
