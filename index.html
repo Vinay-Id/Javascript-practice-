@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>form dom</h1>
+    <form action="#">
+      <input type="text" list="nameList">
+      <datalist id="nameList">
+        <option value="john">
+        <option value="tom">
+        <option value="tony">
+      </datalist>
+      <label for="Age">Age</label>
+      <input id="Age" type="number" />
+      <select name="gender" id="gender">
+        <option value="male">male</option>
+        <option value="female">female</option>
+      </select>
+      <input onclick="Handleclick()" type="button" value="submit" />
+    </form>
+    <p id="result">result</p>
+    <!-- <script src="./index.js"> -->
+    <script>
+      function Handleclick() {
+        const Age = parseInt(document.querySelector("#Age").value);
+        const gender = document.querySelector("#gender").value;
+        const result = document.querySelector("#result");
+        console.log({ Age: Age, gender: gender });
+        if (gender === "male" && Age >= 21) {
+          // console.log("eligible for vote");
+          result.innerHTML = "eligible for vote";
+        } else if (gender === "female" && Age >= 18) {
+          // console.log("eligible for vote");
+          result.innerHTML = "eligible for vote";
+        } else {
+          // console.log(" not eligible for vote");
+          // result.innerHTML = "not eligible for vote";
+          result.textContent = "Not eligible for vote";
+        }
+      }
+    </script>
+  </body>
+</html>
