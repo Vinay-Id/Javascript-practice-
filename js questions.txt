@@ -38,6 +38,9 @@ JavaScript Program to Pass a Function as Parameter
 JavaScript Program to Find the Sum of Natural Numbers
 JavaScript Program to Create Multiline Strings
 JavaScript Program to Add Key/Value Pair to an Object
+JavaScript Program to Implement a Stack
+JavaScript Program to Check Leap Year
+JavaScript Program to Format the Date
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -57,7 +60,6 @@ JavaScript Program to Insert Item in an Array
 JavaScript Program to Append an Object to An Array
 JavaScript Program to Check if An Object is An Array
 JavaScript Program to Get the Dimensions of an Image
-JavaScript Program to Check Leap Year
 JavaScript Program to Include a JS file in Another JS file
 
 
@@ -65,7 +67,6 @@ JavaScript Program to Include a JS file in Another JS file
 JavaScript Program to Split Array into Smaller Chunks
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace All Line Breaks with
-JavaScript Program to Format the Date
 JavaScript Program to Check the Number of Occurrences of a Character in the String
 Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
@@ -103,6 +104,5 @@ JavaScript Program to Check If a Variable is of Function Type
 JavaScript Program to Pass Parameter to a setTimeout() Function
 JavaScript Program to Generate a Range of Numbers and Characters
 JavaScript Program to Perform Function Overloading
-JavaScript Program to Implement a Stack
 JavaScript Program to Implement a Queue
 JavaScript Program to Check if a Number is Float or Integer
