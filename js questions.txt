@@ -41,6 +41,8 @@ JavaScript Program to Add Key/Value Pair to an Object
 JavaScript Program to Implement a Stack
 JavaScript Program to Check Leap Year
 JavaScript Program to Format the Date
+JavaScript Program to Insert Item in an Array
+JavaScript Program to Check if An Object is An Array
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -56,9 +58,7 @@ JavaScript Program to Create Objects in Different Ways
 JavaScript Program to Create Countdown Timer
 JavaScript Program to Loop Through an Object
 JavaScript Program to Validate An Email Address
-JavaScript Program to Insert Item in an Array
 JavaScript Program to Append an Object to An Array
-JavaScript Program to Check if An Object is An Array
 JavaScript Program to Get the Dimensions of an Image
 JavaScript Program to Include a JS file in Another JS file
 
