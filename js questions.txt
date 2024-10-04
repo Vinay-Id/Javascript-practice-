@@ -43,6 +43,7 @@ JavaScript Program to Check Leap Year
 JavaScript Program to Format the Date
 JavaScript Program to Insert Item in an Array
 JavaScript Program to Check if An Object is An Array
+JavaScript Program to Check if a Number is Float or Integer
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -105,4 +106,3 @@ JavaScript Program to Pass Parameter to a setTimeout() Function
 JavaScript Program to Generate a Range of Numbers and Characters
 JavaScript Program to Perform Function Overloading
 JavaScript Program to Implement a Queue
-JavaScript Program to Check if a Number is Float or Integer
