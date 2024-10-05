@@ -44,6 +44,7 @@ JavaScript Program to Format the Date
 JavaScript Program to Insert Item in an Array
 JavaScript Program to Check if An Object is An Array
 JavaScript Program to Check if a Number is Float or Integer
+JavaScript Program to Replace Characters of a String
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -53,7 +54,6 @@ JavaScript Program to Display Fibonacci Sequence Using Recursion
 JavaScript Program to Find Sum of Natural Numbers Using Recursion
 JavaScript Program to Find the Factors of a Number
 JavaScript Program to Find Factorial of Number Using Recursion
-JavaScript Program to Replace Characters of a String
 JavaScript Program to Clone a JS Object
 JavaScript Program to Create Objects in Different Ways
 JavaScript Program to Create Countdown Timer
