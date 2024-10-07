@@ -47,6 +47,7 @@ JavaScript Program to Check if a Number is Float or Integer
 JavaScript Program to Replace Characters of a String
 JavaScript Program to Append an Object to An Array
 -----------------------------------------------------------------------------------
+JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
 JavaScript Program to Convert Date to Number
@@ -66,7 +67,6 @@ JavaScript Program to Include a JS file in Another JS file
 
 
 JavaScript Program to Split Array into Smaller Chunks
-JavaScript Program to Compare Two Strings
 JavaScript Program to Replace All Line Breaks with
 JavaScript Program to Check the Number of Occurrences of a Character in the String
 Javascript Program to Solve Quadratic Equation
