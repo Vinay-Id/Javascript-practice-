@@ -48,6 +48,7 @@ JavaScript Program to Replace Characters of a String
 JavaScript Program to Append an Object to An Array
 JavaScript Program to Find the Factors of a Number
 JavaScript Program to Check Armstrong Number
+JavaScript Program to Find Sum of Natural Numbers Using Recursion
 -----------------------------------------------------------------------------------
 JavaScript Program to Validate An Email Address
 JavaScript Program to Compare Two Strings
@@ -55,7 +56,6 @@ JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
 JavaScript Program to Convert Date to Number
 JavaScript Program to Display Fibonacci Sequence Using Recursion
-JavaScript Program to Find Sum of Natural Numbers Using Recursion
 JavaScript Program to Find Factorial of Number Using Recursion
 JavaScript Program to Clone a JS Object
 JavaScript Program to Create Objects in Different Ways
