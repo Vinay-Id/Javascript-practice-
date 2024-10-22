@@ -49,8 +49,8 @@ JavaScript Program to Append an Object to An Array
 JavaScript Program to Find the Factors of a Number
 JavaScript Program to Check Armstrong Number
 JavaScript Program to Find Sum of Natural Numbers Using Recursion
------------------------------------------------------------------------------------
 JavaScript Program to Validate An Email Address
+-----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
