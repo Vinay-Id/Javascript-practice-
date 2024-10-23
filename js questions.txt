@@ -50,6 +50,7 @@ JavaScript Program to Find the Factors of a Number
 JavaScript Program to Check Armstrong Number
 JavaScript Program to Find Sum of Natural Numbers Using Recursion
 JavaScript Program to Validate An Email Address
+JavaScript Program to Replace All Line Breaks with
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -67,7 +68,6 @@ JavaScript Program to Include a JS file in Another JS file
 
 
 JavaScript Program to Split Array into Smaller Chunks
-JavaScript Program to Replace All Line Breaks with
 JavaScript Program to Check the Number of Occurrences of a Character in the String
 Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
