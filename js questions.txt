@@ -52,6 +52,7 @@ JavaScript Program to Find Sum of Natural Numbers Using Recursion
 JavaScript Program to Validate An Email Address
 JavaScript Program to Replace All Line Breaks with
 JavaScript Program To Get The Current URL
+JavaScript Program to Count the Number of Vowels in a String
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -78,7 +79,6 @@ JavaScript Program to Find LCM
 JavaScript Program to Shuffle Deck of Cards
 JavaScript Program to Convert Decimal to Binary
 JavaScript Program to Find ASCII Value of Character
-JavaScript Program to Count the Number of Vowels in a String
 JavaScript Program to Remove a Property from an Object
 JavaScript Program to Check Whether a String Starts and Ends With Certain Characters
 JavaScript Program to Merge Property of Two Objects
