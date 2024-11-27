@@ -54,6 +54,8 @@ JavaScript Program to Replace All Line Breaks with
 JavaScript Program To Get The Current URL
 JavaScript Program to Count the Number of Vowels in a String
 JavaScript Program to Set a Default Parameter Value For a Function
+JavaScript Program to Check the Number of Occurrences of a Character in the String
+JavaScript Program To Perform Intersection Between Two Arrays
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -71,7 +73,6 @@ JavaScript Program to Include a JS file in Another JS file
 
 
 JavaScript Program to Split Array into Smaller Chunks
-JavaScript Program to Check the Number of Occurrences of a Character in the String
 Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
 JavaScript Program to Check if the Numbers Have Same Last Digit
@@ -97,7 +98,6 @@ JavaScript Program to Sort Array of Objects by Property Values
 JavaScript Program to Create Two Dimensional Array
 JavaScript Program to Extract Given Property Values from Objects as Array
 JavaScript Program to Compare Elements of Two Arrays
-JavaScript Program To Perform Intersection Between Two Arrays
 JavaScript Program to Get File Extension
 JavaScript Program to Illustrate Different Set Operations
 Javascript Program to Generate a Random Number Between Two Numbers
