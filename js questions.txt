@@ -57,6 +57,7 @@ JavaScript Program to Set a Default Parameter Value For a Function
 JavaScript Program to Check the Number of Occurrences of a Character in the String
 JavaScript Program To Perform Intersection Between Two Arrays
 JavaScript Program to Convert Objects to Strings
+JavaScript Program to Loop Through an Object
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -67,7 +68,6 @@ JavaScript Program to Find Factorial of Number Using Recursion
 JavaScript Program to Clone a JS Object
 JavaScript Program to Create Objects in Different Ways
 JavaScript Program to Create Countdown Timer
-JavaScript Program to Loop Through an Object
 JavaScript Program to Get the Dimensions of an Image
 JavaScript Program to Include a JS file in Another JS file
 
