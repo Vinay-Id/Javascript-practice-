@@ -58,6 +58,7 @@ JavaScript Program to Check the Number of Occurrences of a Character in the Stri
 JavaScript Program To Perform Intersection Between Two Arrays
 JavaScript Program to Convert Objects to Strings
 JavaScript Program to Loop Through an Object
+JavaScript Program to Split Array into Smaller Chunks
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -73,7 +74,6 @@ JavaScript Program to Include a JS file in Another JS file
 
 
 
-JavaScript Program to Split Array into Smaller Chunks
 Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
 JavaScript Program to Check if the Numbers Have Same Last Digit
