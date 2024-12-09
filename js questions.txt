@@ -59,6 +59,7 @@ JavaScript Program To Perform Intersection Between Two Arrays
 JavaScript Program to Convert Objects to Strings
 JavaScript Program to Loop Through an Object
 JavaScript Program to Split Array into Smaller Chunks
+JavaScript Program to Find LCM
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -78,7 +79,6 @@ Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
 JavaScript Program to Check if the Numbers Have Same Last Digit
 JavaScript Program to Find HCF or GCD
-JavaScript Program to Find LCM
 JavaScript Program to Shuffle Deck of Cards
 JavaScript Program to Convert Decimal to Binary
 JavaScript Program to Find ASCII Value of Character
