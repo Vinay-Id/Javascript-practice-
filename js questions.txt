@@ -60,6 +60,7 @@ JavaScript Program to Convert Objects to Strings
 JavaScript Program to Loop Through an Object
 JavaScript Program to Split Array into Smaller Chunks
 JavaScript Program to Find LCM
+JavaScript Program to Generate Random String
 -----------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
 JavaScript Program to Replace all Instances of a Character in a String
@@ -87,7 +88,6 @@ JavaScript Program to Check Whether a String Starts and Ends With Certain Charac
 JavaScript Program to Merge Property of Two Objects
 JavaScript Program to Count the Number of Keys/Properties in an Object
 JavaScript Program to Format Numbers as Currency Strings
-JavaScript Program to Generate Random String
 JavaScript Program to Check if a String Starts With Another String
 JavaScript Program to Check Whether a String Contains a Substring
 JavaScript Program to Encode a String to Base64
