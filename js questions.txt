@@ -62,8 +62,8 @@ JavaScript Program to Split Array into Smaller Chunks
 JavaScript Program to Find LCM
 JavaScript Program to Generate Random String
 Javascript Program to Generate a Random Number Between Two Numbers
------------------------------------------------------------------------------------
 JavaScript Program to Compare Two Strings
+-----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
 JavaScript Program to Convert Date to Number
