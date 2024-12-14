@@ -63,6 +63,8 @@ JavaScript Program to Find LCM
 JavaScript Program to Generate Random String
 Javascript Program to Generate a Random Number Between Two Numbers
 JavaScript Program to Compare Two Strings
+JavaScript Program to Check if An Array Contains a Specified Value
+Javascript Program to Solve Quadratic Equation
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -77,7 +79,6 @@ JavaScript Program to Include a JS file in Another JS file
 
 
 
-Javascript Program to Solve Quadratic Equation
 JavaScript Program to Find Armstrong Number in an Interval
 JavaScript Program to Check if the Numbers Have Same Last Digit
 JavaScript Program to Find HCF or GCD
@@ -94,7 +95,6 @@ JavaScript Program to Check Whether a String Contains a Substring
 JavaScript Program to Encode a String to Base64
 JavaScript Program to Compare The Value of Two Dates
 JavaScript Program to Remove Specific Item From an Array
-JavaScript Program to Check if An Array Contains a Specified Value
 JavaScript Program to Sort Array of Objects by Property Values
 JavaScript Program to Create Two Dimensional Array
 JavaScript Program to Extract Given Property Values from Objects as Array
