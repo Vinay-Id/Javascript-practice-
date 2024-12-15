@@ -65,6 +65,7 @@ Javascript Program to Generate a Random Number Between Two Numbers
 JavaScript Program to Compare Two Strings
 JavaScript Program to Check if An Array Contains a Specified Value
 Javascript Program to Solve Quadratic Equation
+JavaScript Program to Sort Array of Objects by Property Values
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -95,7 +96,6 @@ JavaScript Program to Check Whether a String Contains a Substring
 JavaScript Program to Encode a String to Base64
 JavaScript Program to Compare The Value of Two Dates
 JavaScript Program to Remove Specific Item From an Array
-JavaScript Program to Sort Array of Objects by Property Values
 JavaScript Program to Create Two Dimensional Array
 JavaScript Program to Extract Given Property Values from Objects as Array
 JavaScript Program to Compare Elements of Two Arrays
