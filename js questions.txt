@@ -67,6 +67,7 @@ JavaScript Program to Check if An Array Contains a Specified Value
 Javascript Program to Solve Quadratic Equation
 JavaScript Program to Sort Array of Objects by Property Values
 JavaScript Program to Compare Elements of Two Arrays
+JavaScript Program to Check if a String Starts With Another String
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
@@ -92,7 +93,6 @@ JavaScript Program to Check Whether a String Starts and Ends With Certain Charac
 JavaScript Program to Merge Property of Two Objects
 JavaScript Program to Count the Number of Keys/Properties in an Object
 JavaScript Program to Format Numbers as Currency Strings
-JavaScript Program to Check if a String Starts With Another String
 JavaScript Program to Check Whether a String Contains a Substring
 JavaScript Program to Encode a String to Base64
 JavaScript Program to Compare The Value of Two Dates
