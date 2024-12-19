@@ -68,13 +68,13 @@ Javascript Program to Solve Quadratic Equation
 JavaScript Program to Sort Array of Objects by Property Values
 JavaScript Program to Compare Elements of Two Arrays
 JavaScript Program to Check if a String Starts With Another String
+JavaScript Program to Clone a JS Object
 -----------------------------------------------------------------------------------
 JavaScript Program to Replace all Instances of a Character in a String
 JavaScript Program to Print the Fibonacci Sequence
 JavaScript Program to Convert Date to Number
 JavaScript Program to Display Fibonacci Sequence Using Recursion
 JavaScript Program to Find Factorial of Number Using Recursion
-JavaScript Program to Clone a JS Object
 JavaScript Program to Create Objects in Different Ways
 JavaScript Program to Create Countdown Timer
 JavaScript Program to Get the Dimensions of an Image
